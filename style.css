@@ -1,0 +1,33 @@
+.menu:link{
+  display:inline;
+  color:black;
+  text-decoration: none;
+  padding:10px 5px;
+  border:1px solid black;
+  margin:auto;
+  transition:200ms;
+}
+.menu:hover{
+  background-color:cyan;
+  transition:200ms;
+}
+#title{
+  display:inline;
+  margin-top:5px;
+}
+#header{
+  display:block;
+  width:100%;
+  margin-top:20px;
+  padding:20px;
+  background-color:lightyellow;
+}
+#buttons{
+  display:inline;
+  top:55px;
+  right:30px;
+  position:absolute;
+}
+body{
+  background-color:yellow;
+}
